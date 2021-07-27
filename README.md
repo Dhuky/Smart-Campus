@@ -6,6 +6,6 @@
 
 ## Software e hardware utilizados:
 
-+ Placa de desenvolvimento Esp32 devboard;
++ Placa de desenvolvimento Esp32s;
 + Arduíno IDE 1.8.13;
 + Linguagem de programação C++.
