@@ -1,0 +1,5 @@
+#define USERNAME "fernandafoliveira"
+#define DEVICE_ID "Modulo01"
+#define DEVICE_CREDENTIAL "Cb4dwpbY1W&0jp4o"
+#define SSID "Newbie-on_2.4 GHz"
+#define SSID_PASSWORD "9373Aa@3"
