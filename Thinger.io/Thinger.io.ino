@@ -1,4 +1,4 @@
-#define _DISABLE_TLS_
+//#define _DISABLE_TLS_
 
 #define THINGER_SERIAL_DEBUG
 #include <ThingerESP32.h>
